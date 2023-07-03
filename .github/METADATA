@@ -1,0 +1,13 @@
+{
+  "security": {
+    "confidentialityGrade": 2,
+    "integrityGrade": 1,
+    "availabilityGrade": 1,
+    "traceabilityGrade": 1,
+    "assetCriticityGrade": 2,
+    "recoveryTimeObjective": 4,
+    "recoveryPointObjective": 4,
+    "managePII": false,
+    "contributeToSwilePayment": false
+  }
+}
