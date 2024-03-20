@@ -1,1 +1,5 @@
-* @TheMenu/core-banking
+# Feature team that owns the code (can be several teams when it is a shared asset)
+* @TheMenu/fr-innovation-payment-core-banking
+
+# MUST BE THE LAST LINE IN THIS FILE - Team that is responsible and control CODEOWNERS file
+CODEOWNERS @TheMenu/codeowners
